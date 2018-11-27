@@ -1,0 +1,5 @@
+MURDER TEXT ADVENTURE
+
+Enter START to start the game
+Enter HELP to display the help screen
+Enter QUIT to exit the game

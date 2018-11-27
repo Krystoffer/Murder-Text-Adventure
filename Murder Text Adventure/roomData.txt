@@ -1,0 +1,44 @@
+Lobby
+A narrow doorway with a shoerack on one side and a beautiful painting on the other side
+
+Hall GF
+A very long hallway which connects to a lot of rooms
+
+Guest Room
+A very simple room with several couches, a table with several a few cookie jars on top
+
+Living Room
+Very much like the guest room, but with a 85" TV, some game consoles, and a disc player
+
+Storage
+Every side is full of boxes stacked on top of another, but there is a space for someone to stand inside
+
+WC
+Every side of the room is covered with diamond tiles where the color get lighter from top to bottom
+
+Dining Room
+A rather empty room with only a dining table and chairs, a large flower vase in one corner, and a window facing the forest
+
+Kitchen
+A modern kitchen that has a shelf containing all kinds of spices that you can ever imagine
+
+Stairs
+A set of stairway connecting the ground floor and the first floor
+
+Hall 1F
+A very long hallway which connects to a lot of rooms
+
+Your Room
+A simple room with a wardrobe and a bed. You were sleeping in this room last night
+
+Bedroom 1
+A simple room with a wardrobe and a bed, the girls are sleeping here
+
+Bedroom 2
+A simple room with a wardrobe and a bed, the boys are sleeping here
+
+Bedroom 3
+A simple room with a wardrobe and a bed, there is not even a speck of dust despite no one using it
+
+Bathroom
+A rather bright bathroom with a bathtub and a shower. There is a window on top of the bathtub facing the sunset.

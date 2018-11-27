@@ -1,0 +1,21 @@
+﻿  Game.cpp
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(435): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(480): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(511): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(522): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(553): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(585): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(623): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(657): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(687): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(701): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(724): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\murder text adventure\murder text adventure\game.cpp(729): warning C4018: '<': signed/unsigned mismatch
+  Murder Text Adventure.vcxproj -> C:\Users\Asus\source\repos\Murder Text Adventure\Debug\Murder Text Adventure.exe

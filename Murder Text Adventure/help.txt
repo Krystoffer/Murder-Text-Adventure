@@ -1,0 +1,48 @@
+=================================HELP===================================
+
+In this game, you are a detective who solve murder cases. During your break,
+you rented a room of a villa in the mountains and met a group of 7 people.
+On your third day of vacation, one of them died mysteriously and the villa
+is now in a mess.
+
+It is up to you and your brilliant detective brain to solve the murder case
+and arrest the suspect.
+
+You need to go around the villa to search for clues to solve the case.
+
+These are several commands that will assist you in solving the case:
+GO <ROOM_NAME>	 	To go to a room, you can only go to a room connected the
+			room you are currently in. Upon entering a room, there
+			will be a short description about the room and the people
+			who are inside the room.
+
+SEARCH			To search for all the items that are inside the room.
+
+EXAMINE <OBJECT_NAME>	To describe the object.
+
+GET <OBJECT_NAME>	To store the object in your inventory.
+
+DROP <OBJECT_NAME>	To drop the object from your inventory.
+
+INVENTORY		To list out the items in your inventory.
+
+FIND <PERSON_NAME>	To find the location of a suspect, it will tell you the
+			in which room the suspect is.
+
+QUESTION <PERSON_NAME>	To ask a suspect for his / her alibi during the time of
+			murder.
+
+GATHER			To gather all the suspects to the room you are currently
+			in.
+
+ACCUSE <PERSON_NAME>	To deduce the murderer. You will be asked for the weapon
+			that is used. Upon making any mistake in you deduction,
+			you will lose the game. Upon making the correct deduction,
+			you will win the game. You need to have the weapon in
+			your inventory or no one will be convinced.
+
+MAP			To open the map screen.
+
+HELP			To open the help screen.
+
+QUIT			To quit at any time.
